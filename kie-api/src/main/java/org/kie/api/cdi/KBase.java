@@ -18,7 +18,6 @@ package org.kie.api.cdi;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
-
 import javax.inject.Qualifier;
 
 import static java.lang.annotation.ElementType.FIELD;
